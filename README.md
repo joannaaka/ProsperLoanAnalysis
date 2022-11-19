@@ -1,6 +1,6 @@
 # ProsperLoanAnalysis 
 
-##Project Overview 
+## Project Overview 
 * Pre-Wrangling 
 * Extensive Data Exploration 
 * Generating Insights on Loan ratings
