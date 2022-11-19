@@ -1,4 +1,13 @@
-# ProsperLoanAnalysis
+# ProsperLoanAnalysis 
+
+##Project Overview 
+* Pre-Wrangling 
+* Extensive Data Exploration 
+* Generating Insights on Loan ratings
+
+
+
+
 ## Dataset
 Prosper Marketplace Inc is a San Francisco, California based company specializing in loans with an interest rates to borrowers. In this project, we are analyzing and generating insights on a dataset from Prosper. The dataset comprises of 81 variables and 113937 entries.
 
